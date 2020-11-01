@@ -25,7 +25,7 @@
 
 # Paper Reading at [Deep Learning JP](https://deeplearning.jp/)
 
-- 2020/10/23 [Tu+ ECCV'20] [VoxelPose: Towards Multi-Camera 3D Human Pose Estimation in Wild Environment](https://www.slideshare.net/DeepLearningJP2016/dlvoxelpose-towards-multicamera-3d-human-pose-estimation-in-wild-environment)
+- 2020/10/23 [[Tu+ ECCV'20] VoxelPose: Towards Multi-Camera 3D Human Pose Estimation in Wild Environment](https://www.slideshare.net/DeepLearningJP2016/dlvoxelpose-towards-multicamera-3d-human-pose-estimation-in-wild-environment)
 - 2020/07/31 [[Jin+ ECCV'20] Whole-Body Human Pose Estimation in the Wild](https://deeplearning.jp/whole-body-human-pose-estimation-in-the-wild/)
 - 2020/04/10 [[Zhou+ ECCV'20] Tracking Objects as Points](https://deeplearning.jp/tracking-objects-as-points/)
 - 2019/12/06 [[Feichtenhofer+ ICCV'19] SlowFast Networks for Video Recognition](https://deeplearning.jp/slowfast-networks-for-video-recognition/)
